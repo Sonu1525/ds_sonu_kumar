@@ -2,6 +2,12 @@
 
 Data Science Assignment Submission
 
+# ds_sonu_kumar
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sonu1525/ds_sonu_kumar/blob/main/notebook_1.ipynb)
+
+Data Science Assignment Submission
+
 ## Data Access
 Large CSV files are hosted on Google Drive.  
 The notebook (`notebook_1.ipynb`) downloads them automatically using gdown.
